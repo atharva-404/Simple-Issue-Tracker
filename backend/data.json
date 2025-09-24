@@ -1,0 +1,35 @@
+{
+  "issues": [
+    {
+      "id": 1,
+      "title": "Sample issue: login bug",
+      "description": "Cannot login with correct password",
+      "status": "open",
+      "priority": "high",
+      "assignee": "alice",
+      "createdAt": "2025-01-01T12:00:00Z",
+      "updatedAt": "2025-01-01T12:00:00Z"
+    },
+    {
+      "id": 2,
+      "title": "Typo in homepage",
+      "description": "Small typo on landing page",
+      "status": "closed",
+      "priority": "low",
+      "assignee": "bob",
+      "createdAt": "2025-01-02T12:00:00Z",
+      "updatedAt": "2025-01-02T12:00:00Z"
+    },
+    {
+      "id": 3,
+      "title": "hii",
+      "description": "no error",
+      "status": "open",
+      "priority": "high",
+      "assignee": "hello",
+      "createdAt": "2025-09-24T06:53:01.860238Z",
+      "updatedAt": "2025-09-24T06:53:01.860238Z"
+    }
+  ],
+  "next_id": 4
+}
