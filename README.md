@@ -12,9 +12,6 @@ issue-tracker/
 ├── frontend/ # Angular frontend (standalone components)
 └── README.md # This file
 
-yaml
-Copy code
-
 ---
 
 ## Backend
