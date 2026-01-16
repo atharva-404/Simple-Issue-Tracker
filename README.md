@@ -5,7 +5,6 @@ Users can **view, search, filter, sort, create, and update issues**.
 
 ---
 
-
 ## Project Structure
 
 issue-tracker/
