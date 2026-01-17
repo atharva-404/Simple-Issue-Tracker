@@ -7,6 +7,7 @@ Users can **view, search, filter, sort, create, and update issues**.
 
 ## Project Structure
 
+
 issue-tracker/
 ├── backend/ # FastAPI backend
 ├── frontend/ # Angular frontend (standalone components)
@@ -79,6 +80,7 @@ Sorting & Pagination: Sort by clicking headers, navigate pages with Prev/Next bu
 Create / Edit Issue: Add or update issues using a form.
 
 Issue Detail Drawer: Click a row to view full issue details.
+
 
 Notes
 Frontend uses HttpClientModule for API calls.
