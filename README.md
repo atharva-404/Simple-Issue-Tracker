@@ -83,6 +83,7 @@ Issue Detail Drawer: Click a row to view full issue details.
 
 
 Notes
+
 Frontend uses HttpClientModule for API calls.
 
 API URL is configured in api.service.ts. Change if backend is on a different host/port.
