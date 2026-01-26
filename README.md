@@ -43,6 +43,7 @@ issue-tracker/
 - Node.js and npm  
 - Angular CLI (install globally if not installed):
 
+
 ```bash
 npm install -g @angular/cli
 
