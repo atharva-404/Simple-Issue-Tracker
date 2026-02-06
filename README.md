@@ -72,7 +72,7 @@ http://localhost:4200
 Ensure the backend is running at http://localhost:8000 before using the frontend.
 
 Features
-Issues List Table: id, title, status, priority, assignee, updatedAt.
+Issues List Table: id, title, status, priority, assignee,updatedAt.
 
 Search & Filters: Search by title, filter by status, priority, or assignee.
 
