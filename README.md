@@ -87,7 +87,8 @@ Notes
 
 Frontend uses HttpClientModule for API calls.
 
-API URL is configured in api.service.ts. Change if backend is on a different host/port.
+API URL is configured in api.service.ts. 
+Change if backend is on a different host/port.
 
 Designed for local development; production deployment may require CORS adjustments.
 
