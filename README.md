@@ -78,7 +78,7 @@ Search & Filters: Search by title, filter by status, priority, or assignee.
 
 Sorting & Pagination: Sort by clicking headers, navigate pages with Prev/Next buttons.
 
-Create / Edit Issue: Add or update issues using a form.
+Create / Edit Issue: Add or update issues using a form. 
 
 Issue Detail Drawer: Click a row to view full issue details.
 
