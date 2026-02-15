@@ -13,6 +13,7 @@ issue-tracker/
 ├── frontend/ # Angular frontend (standalone components)
 └── README.md # This file
 
+
 ---
 
 ## Backend
