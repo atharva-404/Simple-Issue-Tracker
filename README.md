@@ -55,6 +55,7 @@ npm install -g @angular/cli
 Setup & Run
 Navigate to frontend folder:
 
+
 bash
 Copy code
 cd frontend
