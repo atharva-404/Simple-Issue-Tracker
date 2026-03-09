@@ -31,6 +31,7 @@ issue-tracker/
 | `POST /issues`  | Create a new issue |
 | `PUT /issues/{id}` | Update an existing issue |
 
+
 - See `backend/README.md` for detailed instructions to run the backend.  
 - Backend default URL: `http://localhost:8000`
 
