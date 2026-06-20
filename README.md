@@ -51,7 +51,6 @@ issue-tracker/
 npm install -g @angular/cli
 
 
-
 Setup & Run
 Navigate to frontend folder:
 
