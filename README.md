@@ -9,7 +9,6 @@ Users can **view, search, filter, sort, create, and update issues**.
 ## Project Structures 
 
 
-
 issue-tracker/
 ├── backend/ # FastAPI backend
 ├── frontend/ # Angular frontend (standalone components)
